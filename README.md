@@ -112,3 +112,6 @@ The project aims to provide data-driven recommendations that help the company im
 **🔗 LinkedIn:** [Ali Zain](https://www.linkedin.com/in/ali-zain-203702288/)
 
 **💻 GitHub:** [alizain946](https://github.com/alizain946)
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
