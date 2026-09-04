@@ -105,7 +105,7 @@ The project aims to provide data-driven recommendations that help the company im
 
 **Data Analyst | Python | SQL | PostgreSQL | Power BI | Excel**
 
-**📧 Gmail:** [alizain.analyst@gmail.com](mailto:alizainsaeed946@gmail.com)
+**📧 Gmail:** [alizainsaeed946@gmail.com](mailto:alizainsaeed946@gmail.com)
 
 **📱 WhatsApp:** [+92 3269701669](https://wa.me/923269701669)
 
